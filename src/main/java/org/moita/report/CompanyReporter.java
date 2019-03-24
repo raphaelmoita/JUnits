@@ -2,6 +2,7 @@ package org.moita.report;
 
 import org.moita.domain.Employee;
 import org.moita.filter.EmployeeFilter;
+import org.moita.formater.Formater;
 
 import java.util.List;
 

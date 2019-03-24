@@ -7,6 +7,7 @@ import org.mockito.*;
 import org.mockito.junit.MockitoJUnitRunner;
 import org.moita.domain.Employee;
 import org.moita.filter.EmployeeFilter;
+import org.moita.formater.Formater;
 
 import java.util.Arrays;
 import java.util.List;
